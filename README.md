@@ -18,3 +18,7 @@ Skills used:
 - lists
 - dictionaries
 - sets
+
+How to run:
+1. Place text.txt in project folder
+2. Run main.py
